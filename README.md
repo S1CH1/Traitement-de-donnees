@@ -26,8 +26,7 @@ Il suffit de personnaliser le code en modifiant les paramètres selon les besoin
    - Clonez ou téléchargez le projet sur votre machine.
 
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-projet.git
-   https://github.com/S1CH1
+   git clone https://github.com/https://github.com/S1CH1/Traitement-de-donnees.git
    ```
 
 3. **Installation des Dépendances**
